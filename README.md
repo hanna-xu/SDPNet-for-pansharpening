@@ -1,6 +1,6 @@
 # SDPNet
 A Deep Network for Pan-sharpening with Enhanced Information Representation
-<div align=center><img src="https://github.com/hanna-xu/SDPNet/blob/master/ex.png" width="980" height="240"/></div><br>
+<div align=center><img src="https://github.com/hanna-xu/SDPNet/blob/master/ex.png" width="980" height="245"/></div><br>
 
 ## To test with the pretrained model:
 run test.py
