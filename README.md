@@ -1,8 +1,9 @@
 # SDPNet
 A Deep Network for Pan-sharpening with Enhanced Information Representation
-<div align=center><img src="https://github.com/hanna-xu/SDPNet/blob/master/ex.png" width="440" height="290"/></div><br>
+<div align=center><img src="https://github.com/hanna-xu/SDPNet/blob/master/ex.png" width="980" height="260"/></div><br>
 
 ## To test with the pretrained model:
+run test.py
 
 ## To train:
 * Step 1: download the [h5 file]() or create your own h5 file according to [it](https://github.com/hanna-xu/utils).
