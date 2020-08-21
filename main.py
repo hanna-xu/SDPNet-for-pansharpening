@@ -9,7 +9,7 @@ import matplotlib.pyplot as plt
 from PIL import Image
 from datetime import datetime
 import cv2
-from pnet_tradition import PNet
+from pnet import PNet
 from spat_ED import ED1
 from spec_ED import ED2
 
