@@ -193,6 +193,6 @@ def _tf_fspecial_gauss(size, sigma):
 
 if __name__ == '__main__':
 	## for train
-	#main()
+	main()
 	## for test
-	test()
+	#test()
