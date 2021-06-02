@@ -11,7 +11,7 @@ run test.py
 * Step 3: run spec_main.py and spat_main.py for spatial and spectral encoder and decoders 
 * Step 4: run spec_diff.py and spat_diff.py for unique channels
 * Step 5: run main.py for training (2 GPUs are needed)
-
+\\
 If this work is helpful, please cite it as:
 ```
 @article{xu2020sdpnet,
