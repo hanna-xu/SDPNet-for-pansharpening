@@ -1,5 +1,5 @@
 # SDPNet
-A Deep Network for Pan-sharpening with Enhanced Information Representation
+A Deep Network for Pan-sharpening with Enhanced Information Representation (TGRS 2020)
 <div align=center><img src="https://github.com/hanna-xu/SDPNet/blob/master/ex.png" width="980" height="250"/></div><br>
 
 ## To test with the pretrained model:
@@ -13,7 +13,7 @@ run test.py
 * Step 5: run main.py for training (2 GPUs are needed)
 
 If this work is helpful, please cite it as:
-`
+```
 @article{xu2020sdpnet,
   title={SDPNet: A Deep Network for Pan-Sharpening With Enhanced Information Representation},
   author={Xu, Han and Ma, Jiayi and Shao, Zhenfeng and Zhang, Hao and Jiang, Junjun and Guo, Xiaojie},
@@ -21,4 +21,4 @@ If this work is helpful, please cite it as:
   year={2020},
   publisher={IEEE}
 }
-`
+```
